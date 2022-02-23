@@ -28,6 +28,24 @@ Alternate: The article command is for Git Bash:
 
 `mvn exec:java -Dexec.mainClass=com.journaldev.sparkdemo.WordCounter -Dexec.args="input.txt"`
 
+## Warnings
+
+You do not need to debug the version warnings for this exercise. 
+
+## Verify Output
+
+- What new folder was created during execution?
+- What file has the results?
+
+## Understand the Code
+
+Explore the code. 
+
+- Understand where code begins, the classes and methods used, the output folder creation. 
+- Review the pom.xml. Understand the project elements including dependencies, and Maven plugins. 
+- What is Maven? What is a plugin? 
+
 ## Common Error
 
-Review the code. You'll have to delete the output directory before regenerating new output. 
+Delete the output directory before regenerating new output. 
+Find the associated code. Could you change the output folder? 
